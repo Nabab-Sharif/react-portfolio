@@ -4,7 +4,9 @@ import './footer.css'
 const Footer = () => {
   return (
     <>
-      <h2>Footer</h2>
+      <section id='footer'>
+        <h2>Footer</h2>
+      </section>
     </>
   )
 }
