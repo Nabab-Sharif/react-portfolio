@@ -22,34 +22,7 @@ const About = () => {
           </div>
 
           <div className='about__content'>
-            <div className='about__cards'>
-              {/* about card start here */}
-              <article className='about__card'>
-                <FiAward className='about__icon' />
-                <h5>Experience</h5>
-                <small>1+ Years Working</small>
-              </article>
-              {/* about card end here */}
-
-              {/* about card start here */}
-              <article className='about__card'>
-                <FaUserTie className='about__icon' />
-                <h5>Clients</h5>
-                <small>50+ Worldwide</small>
-              </article>
-              {/* about card end here */}
-
-              {/* about card start here */}
-              <article className='about__card'>
-                <VscFolderLibrary className='about__icon' />
-                <h5>Projects</h5>
-                <small>80+ Completed</small>
-              </article>
-              {/* about card end here */}
-
-            </div>
-
-            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eos pariatur voluptatibus voluptatem! Quidem quod necessitatibus nobis alias molestiae est nisi sit provident magnam. Eos cupiditate quibusdam laudantium repudiandae ab? Accusamus!</p>
+            <p>I’m a junior front-end developer and like to code in my spare time. Using HTML, CSS, and JavaScript, I have expertise in creating responsive websites. I have also worked with well-known frontend frameworks like React</p>
             <a href="#contact" className='btn btn-primary' >Lets Talk</a>
           </div>
 

@@ -91,7 +91,7 @@ const Experience = () => {
                 <BsPatchCheck className='experience_details_icon' />
                 <div>
                   <h4>Next JS</h4>
-                  <small className='text-light'>Intermediate</small>
+                  <small className='text-light'>Basic</small>
                 </div>
               </article>
 
@@ -106,7 +106,7 @@ const Experience = () => {
                 <BsPatchCheck className='experience_details_icon' />
                 <div>
                   <h4>Node JS</h4>
-                  <small className='text-light'>Intermediate</small>
+                  <small className='text-light'>Basic</small>
                 </div>
               </article>
 
@@ -114,7 +114,7 @@ const Experience = () => {
                 <BsPatchCheck className='experience_details_icon' />
                 <div>
                   <h4>Express JS</h4>
-                  <small className='text-light'>Intermediate</small>
+                  <small className='text-light'>Basic</small>
                 </div>
               </article>
 
@@ -130,14 +130,6 @@ const Experience = () => {
                 <BsPatchCheck className='experience_details_icon' />
                 <div>
                   <h4>MySQL</h4>
-                  <small className='text-light'>Basic</small>
-                </div>
-              </article>
-
-              <article className='experience_details'>
-                <BsPatchCheck className='experience_details_icon' />
-                <div>
-                  <h4>Python</h4>
                   <small className='text-light'>Basic</small>
                 </div>
               </article>
