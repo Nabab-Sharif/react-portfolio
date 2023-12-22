@@ -1,5 +1,5 @@
 header {
-  padding-top: 7rem;
+  padding-top: 1rem;
   margin-bottom: 8rem;
 }
 
@@ -39,7 +39,7 @@ header {
 .me {
   background: linear-gradient(var(--color-light), transparent);
   width: 22rem;
-  height: 26rem;
+  height: 24rem;
   margin: auto;
   margin-top: 4rem;
   overflow: hidden;
@@ -48,7 +48,7 @@ header {
 }
 
 .me img {
-  height: 21rem;
+  height: 20rem;
 }
 
 /*.............Media Queries (medium devices)...............*/
