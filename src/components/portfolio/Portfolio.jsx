@@ -3,6 +3,7 @@ import image1 from '../../../src/assets/images/project1.jpeg'
 import image2 from '../../../src/assets/images/project2.jpeg'
 import image3 from '../../../src/assets/images/project3.jpeg'
 import image4 from '../../../src/assets/images/project4.jpeg'
+import image5 from '../../../src/assets/images/project5.jpeg'
 
 
 const data = [
@@ -36,6 +37,14 @@ const data = [
     title: "CRUD App with HTML-CSS-JS-DOM-OOP-Responsive",
     github: 'https://github.com/Nabab-Sharif/JS-Project-9-Todo-List-OOP-Based-CRUD-Apllication.git',
     demo: 'https://nabab-sharif.github.io/JS-Project-9-Todo-List-OOP-Based-CRUD-Apllication/'
+  },
+
+  {
+    id: 5,
+    image: image5,
+    title: "Local Restaurant with HTML-CSS-Bootstrap-Responsive",
+    github: 'https://github.com/Nabab-Sharif/project-6-Local-Restaurant.git',
+    demo: 'https://nabab-sharif.github.io/project-6-Local-Restaurant/'
   },
 
 ]
